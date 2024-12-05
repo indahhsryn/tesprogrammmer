@@ -98,5 +98,5 @@ Halaman login ini memungkinkan pengguna untuk melakukan autentikasi menggunakan 
 ## Teknologi yang Digunakan
 
 - **JavaScript**: Untuk menangani logika login dan penyimpanan token.
-- **Axios (Opsional)**: Library untuk mengirim permintaan HTTP (jika digunakan di masa depan).
+- **Axios**: Library untuk mengirim permintaan HTTP .
 
